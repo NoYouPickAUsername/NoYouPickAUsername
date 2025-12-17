@@ -1,4 +1,5 @@
-<h1 align="center" dir="auto">## Heya 👋, NoYouPickAUsername Here 😎</p>
+<h1 align="center" dir="auto">
+Heya 👋, NoYouPickAUsername Here 😎</p>
 <h3 align="center" tabindex="-1" class="heading-element" dir="auto">IT Student | Filo Mid Gamer</h3>
 <p align="center" dir="auto">Jake Carlo G. Mandi</p>
 
