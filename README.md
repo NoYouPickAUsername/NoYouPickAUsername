@@ -32,6 +32,14 @@ Heya 👋, NoYouPickAUsername Here 😎</p>
     <a href="https://www.linkedin.com/in/jake-carlo-garcia-mandi-1a4a79274/" rel="nofollow"><img align="center" src="https://github.com/mishmanners/MishManners/blob/master/socials/transparent-Linkedin-logo-icon.png?raw=true" alt="" height="30" style="max-width: 100%; height: auto; max-height: 30px;"></a>
 </p>
 
+<br>
+<h3 align="center">✨ stuff I dig</h3>
+<p align="center" dir="auto">
+  <b>[Strategic games]:</b> old codmw games mostly campaign, then rts (cnc gen zh) and some fps like valo n pubg.<br>
+  <b>[Korean and Chinese Comics]:</b> I read alot of manwhas and manhuas most of them mcs have systems n so on .<br>
+  <b>[Music]:</b> pretty much random either old stuff like eminems mixed with filipino songs then rnb all over again.
+</p>
+
 ---
 <br>
 <p align="center" dir="auto">
