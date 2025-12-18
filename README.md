@@ -17,7 +17,7 @@ Heya 👋, NoYouPickAUsername Here 😎</p>
 <br>
 <h3 align="center">✨ Key Features</h3>
 <p align="center" dir="auto">
-  <b>[Laziness 🛌[SSS+]:</b> Mamaw Pag Deadline.<br>
+  <b>[Laziness 🛌[SSS+]:</b> Yun.<br>
   <b>[Mixed Feelings 🙂[S+]:</b> Masaya na Malungkot.<br>
   <b>[NagBeBeg 🙇[F-]:</b> plsplspls.
 </p>
