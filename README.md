@@ -33,7 +33,7 @@ Heya 👋, NoYouPickAUsername Here 😎</p>
 </p>
 
 <br>
-<h3 align="center">✨ stuff I dig</h3>
+<h3 align="center">✨ Stuff I Dig</h3>
 <p align="center" dir="auto">
   <b>[Strategic games]:</b> old codmw games mostly campaign, then rts (cnc gen zh) and some fps like valo n pubg.<br>
   <b>[Korean and Chinese Comics]:</b> I read alot of manwhas and manhuas most of them mcs have systems n so on .<br>
