@@ -44,4 +44,8 @@ Heya 👋, NoYouPickAUsername Here 😎</p>
 <br>
 <p align="center" dir="auto">
 <a href="https://data.typeracer.com/pit/profile?user=mjakecarlo&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=mjakecarlo" border="0" alt="TypeRacer.com scorecard for user mjakecarlo"/></a>
-</p>
+  <br>
+
+---
+<p align="center" dir="auto">
+<img src="https://github-readme-stats.vercel.app/api?username=NoYouPickAUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
