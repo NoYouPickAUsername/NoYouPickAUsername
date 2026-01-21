@@ -43,7 +43,10 @@ Heya 👋, NoYouPickAUsername Here 😎</p>
 ---
 <br>
 <p align="center" dir="auto">
+<h3 align="center">✨ my old typeracer acc then the newer one ✨</h3>
+<p align="center" dir="auto">
 <a href="https://data.typeracer.com/pit/profile?user=mjakecarlo&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=mjakecarlo" border="0" alt="TypeRacer.com scorecard for user mjakecarlo"/></a>
+  <a href="https://data.typeracer.com/pit/profile?user=jakews2&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=jakews2" border="0" alt="TypeRacer.com scorecard for user jakews2"/></a>
   <br>
 
 ---
