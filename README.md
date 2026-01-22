@@ -51,4 +51,4 @@ Heya 👋, NoYouPickAUsername Here 😎</p>
 
 ---
 <p align="center" dir="auto">
-<img src="https://github-readme-stats.vercel.app/api?username=NoYouPickAUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NoYouPickAUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
