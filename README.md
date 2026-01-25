@@ -51,4 +51,4 @@ Heya 👋, I'm Sprout 😎 or </p>
 
 ---
 <p align="center" dir="auto">
-<img src="https://github-readme-stats.vercel.app/api?username=NoYouPickAUsername&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sprout-main&show_icons=true&theme=dark" alt="GitHub Stats" />
