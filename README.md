@@ -1,7 +1,9 @@
 <h1 align="center" dir="auto">
 Heya 👋, I'm Sprout 😎 or </p>
-<h3 align="center" tabindex="-1" class="heading-element" dir="auto">Vertical / IT Student / Dependent </h3>
-<p align="center" dir="auto">Jake Carlo G. Mandi</p>
+  
+<h2 align="center" dir="auto">Jake Carlo G. Mandi</p>
+  
+<h3 align="center" tabindex="-1" class="heading-element" dir="auto">Vertical / IT Student / Opportunist </h3>
 
 <br>
 <h3 align="center">📖 About</h3>
